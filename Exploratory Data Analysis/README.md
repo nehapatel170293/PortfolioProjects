@@ -1,7 +1,2 @@
-## 📊 COVID-19 Pandemic EDA with Plotly:
-Dive into the dynamics of the COVID-19 pandemic through my in-depth Exploratory Data Analysis. Leveraging web scraping techniques, I extracted real-time data and brought it to life with vivid visualizations using the Plotly package. Uncover trends, patterns, and critical insights in this interactive journey through the pandemic's numerical landscape.
-
-
-This project encapsulates a fusion of data extraction, analysis, and dynamic visualization—a testament to my ability to navigate and communicate complex information effectively. Explore the data, see the stories it tells, and witness the power of Plotly in turning numbers into narratives. 🌐📈
-
-
+## 🏠 Housing Data Analysis Project:
+Utilizing pandas and numpy, this project offers a rigorous exploration of housing data. From generating a comprehensive Descriptive Statistics Summary to crafting correlation matrices, I delve into trend analysis, revealing intricate relationships between variables. The focus extends to the impact of categorical variables, such as Overall Quality, on the target variable, Sale Price. The repository is meticulously curated to showcase technical prowess in data cleaning, trend identification, and insightful statistical analysis.
