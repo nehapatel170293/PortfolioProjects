@@ -1,2 +1,6 @@
-# PortfolioProjects
- A curated collection of my journey through the realm of data science! This GitHub repository is a heartfelt compilation of hands-on projects crafted with passion and dedication, designed specifically to dazzle in data science.
+## 🏠 Housing Data Analysis Project:
+Utilizing pandas and numpy, this project offers a rigorous exploration of housing data. From generating a comprehensive Descriptive Statistics Summary to crafting correlation matrices, I delve into trend analysis, revealing intricate relationships between variables. The focus extends to the impact of categorical variables, such as Overall Quality, on the target variable, Sale Price. The repository is meticulously curated to showcase technical prowess in data cleaning, trend identification, and insightful statistical analysis.
+
+### 🏘️ Housing Price prediction using Linear Regression 📈:
+
+Navigating the intricate terrain of housing data, I conducted a thorough exploration encompassing data preprocessing, handling missing values, and deploying IQR-based outlier detection. With a keen focus on encoding, heat map visualization, and feature scaling, I crafted a resilient regression model utilizing both sklearn and the Ordinary Least Squares method from statsmodels. Rigorous evaluation, incorporating established metrics, enriched the depth of this data-centric odyssey. 🏡📊
